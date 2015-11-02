@@ -6,13 +6,18 @@ BeAnotherLab 2015, Creative commons non-commercial share alike. Based on the Ocu
 For the current Machine to Be Another hardware setup you need to do the following:
 
 --
-ON MAC
+ON MAC 
+
+Using Max
 
 1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
 2. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
 
-Standalone version available here: http://marte.me/cloud/beanotherlab/bodyswap_mac.zip 
+Standalone  
 
+1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
+2. Download and unzip the app: http://marte.me/cloud/beanotherlab/bodyswap_mac.zip 
+3. Open BodySwap.app
 
 --
 ON WINDOWS
@@ -21,7 +26,11 @@ ON WINDOWS
 1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
 2. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
 
-Standalone version available here: http://marte.me/cloud/beanotherlab/bodyswap_win.zip
+Standalone  
+
+1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
+2. Download and unzip the exe: http://marte.me/cloud/beanotherlab/bodyswap_mac.zip
+3. Open BodySwap.exe
 
 --
 CURRENT FRAMERATE TESTS

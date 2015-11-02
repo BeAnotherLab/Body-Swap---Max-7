@@ -1,6 +1,6 @@
 #Machine To Be Another - BodySwap experiment for Max 7
-BeAnotherLab 2015, Creative commons non-commercial share alike.
-Based on the Oculus Max object by Graham Wakefield.
+
+BeAnotherLab 2015, Creative commons non-commercial share alike. Based on the Oculus Max object by Graham Wakefield.
 --
 
 For the current Machine to Be Another hardware setup you need to do the following:

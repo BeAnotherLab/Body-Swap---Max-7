@@ -12,6 +12,9 @@ ON MAC
 2. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
 3. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
 
+Standalone version available here: http://marte.me/cloud/beanotherlab/bodyswap_mac.zip 
+
+
 --
 ON WINDOWS
 (Runs only on 32 bit version of Max 7)

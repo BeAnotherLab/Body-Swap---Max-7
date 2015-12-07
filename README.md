@@ -38,3 +38,13 @@ CURRENT FRAMERATE TESTS
 On a MacBook pro i7, 16GB Ram, Intel Iris pro 2GB.
   On OS X: ~60 fps
   On Windows 8 ~35 fps
+  
+--
+FOR OLDER/SLOWER COMPUTERS:
+This are recommended solutions for slower computers:
+
+1. Change your Max video engine to Quicktime, as it allows for more flexibility
+2. In the video settings window/subpatcher, select a lower. resolution for the video input. 
+3. Click the settings object and select a new compression type (MPEG-4 Video is recommended) in the new window.
+4. Select a compression quality in the same window and press OK
+5. Press the snd_settings object in the settings subpatcher.

@@ -8,29 +8,20 @@ For the current Machine to Be Another hardware setup you need to do the followin
 --
 ON MAC 
 
-Using Max
+Using Max 7
 
 1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
 2. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
-
-Standalone  
-
-1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
-2. Download and unzip the app: http://marte.me/cloud/beanotherlab/bodyswap_mac.zip 
-3. Open BodySwap.app
 
 --
 ON WINDOWS
 (Runs only on 32 bit version of Max 7)
 
+Using Max 7
+
 1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
 2. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
 
-Standalone  
-
-1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
-2. Download and unzip the exe: http://marte.me/cloud/beanotherlab/bodyswap_mac.zip
-3. Open BodySwap.exe
 
 --
 CURRENT FRAMERATE TESTS

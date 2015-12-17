@@ -6,22 +6,17 @@ BeAnotherLab 2015, Creative commons non-commercial share alike. Based on the Ocu
 For the current Machine to Be Another hardware setup you need to do the following:
 
 --
-ON MAC 
+RUNS ON MAC AND 32-bit version of Max for WINDOWS
 
-Using Max 7
-
-1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
-2. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
-
---
-ON WINDOWS
-(Runs only on 32 bit version of Max 7)
-
-Using Max 7
 
 1. Install Oculus runtime ver. 0.44 - https://developer.oculus.com/downloads/
 2. Install the oculus Max object - https://github.com/grrrwaaa/max_oculus
-
+3. Open the appropriate patcher:
+  - Swap.maxpat is the body swap setup: Enter the other computer's ip in LAN, start and go into full-screen mode.
+  - OSC control is the instructions player and receiver of OSC messages from touchOSC.
+    1. set the audio instructions folder by dragging and droping the correct folder. 
+    2. set one computer to forward OSC messages (default) and one to receive-only.
+    3. enter the receive-only computer's ip in the forwarded computers patcher. Enter the forwarder computer's ip in touch OSC.
 
 --
 CURRENT FRAMERATE TESTS

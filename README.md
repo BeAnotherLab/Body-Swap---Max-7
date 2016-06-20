@@ -18,6 +18,7 @@ RUNS ON MAC AND 32-bit version of Max for WINDOWS
     2. set one computer to forward OSC messages (default) and one to receive-only.
     3. enter the receive-only computer's ip in the forwarded computers patcher. Enter the forwarder computer's ip in touch OSC.
 
+A video tutorial is available [here](https://vimeo.com/169609916)
 --
 This is the hardware and space requirements you will need for a body swap setup. TouchOSC support wasn't added yet, so you won't need a tablet
 ![alt tag](https://github.com/BeAnotherLab/The-Machine-to-be-Another/blob/master/files/body%20swap%20rider.png?raw=true)

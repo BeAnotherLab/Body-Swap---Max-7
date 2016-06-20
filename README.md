@@ -19,7 +19,6 @@ RUNS ON MAC AND 32-bit version of Max for WINDOWS
     3. enter the receive-only computer's ip in the forwarded computers patcher. Enter the forwarder computer's ip in touch OSC.
 
 --
-HARDWARE
 This is the hardware and space requirements you will need for a body swap setup. TouchOSC support wasn't added yet, so you won't need a tablet
 ![alt tag](https://github.com/BeAnotherLab/The-Machine-to-be-Another/blob/master/files/body%20swap%20rider.png?raw=true)
 
